@@ -3,6 +3,7 @@ title: "The butcher of Hanover"
 author: Tindra Åkerberg
 date: 2022-02-17
 number: 2
+img: /images/fritz.jpg
 ---
 Fritz Haarmann, also known as the "Butcher of Hanover," was a German serial killer who operated in the early 20th century.
 <!--more-->

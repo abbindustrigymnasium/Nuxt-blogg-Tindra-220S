@@ -3,6 +3,7 @@ title: Who was the Zodiac Killer?
 author: Tindra Åkerberg
 date: 2022-11-04
 number: 1
+img: /images/zodiac.jpg
 ---
 The Zodiac Killer was a notorious serial killer who operated in Northern California during the late 1960s and early 1970s. 
 <!--more-->

@@ -3,6 +3,7 @@ title: Yoo Young-chul
 author: Tindra Åkerberg
 date: 2022-02-17
 number: 2
+img: /images/yoo.jpg
 ---
 Yoo Young-chul is a South Korean serial killer who operated in the early 2000s.
 <!--more-->

@@ -3,6 +3,7 @@ title: The Stoneman
 author: Tindra Åkerberg
 date: 2022-02-17
 number: 1
+img: /images/stone.jpg
 ---
 The Stoneman was a notorious serial killer who operated in colonial-era India, specifically in Calcutta (now Kolkata), during the early 20th century.
 <!--more-->

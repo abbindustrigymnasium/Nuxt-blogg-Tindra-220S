@@ -3,6 +3,8 @@ title: Jeffrey Dahmer
 author: Tindra Åkerberg
 date: 2022-02-17
 number: 2
+img: /images/jeffrey.jpg
+img2: /images/america-removebg-preview.png
 ---
 Jeffrey Dahmer was an American serial killer and sex offender who operated in the late 20th century.
 <!--more-->

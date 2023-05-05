@@ -3,6 +3,7 @@ title: The "Monster Killer"
 author: Tindra Åkerberg
 date: 2022-02-17
 number: 2
+img: /images/yang.jpg
 ---
 Yang Xinhai, also known as the "Monster Killer," was a Chinese serial killer who operated in the late 1990s and early 2000s. 
 <!--more-->

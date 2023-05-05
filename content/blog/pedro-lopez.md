@@ -3,6 +3,7 @@ title: "Monster of the Andes"
 author: Tindra Åkerberg
 date: 2022-02-17
 number: 2
+img: /images/untitled.jpg
 ---
 Pedro Lopez, also known as the "Monster of the Andes," was a Colombian serial killer who operated in Ecuador, Colombia, and Peru in the 1970s and 1980s.
 <!--more-->

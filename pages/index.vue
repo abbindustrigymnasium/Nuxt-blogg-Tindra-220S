@@ -3,7 +3,7 @@
         <div class="mx-auto max-w-lg lg:max-w-7xl">
             <div class="border-b border-b-gray-200 pb-6">
                 <h2 class="text-3xl font-semibold tracking-tight text-white flex justify-center sm:text-4xl">
-                    Solved Crimes
+                    Posts
                 </h2>
             </div>
             <div class="mt-12 grid gap-16 lg:grid cols-3 lg:gap-x-5 lg:gap-y-12 text-white">

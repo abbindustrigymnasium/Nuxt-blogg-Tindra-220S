@@ -3,6 +3,7 @@ title: What happened to Madeleine McCann?
 author: Tindra
 date: 2023-04-15
 number: 1
+img: /images/madeleine-older.jpg
 
 ---
 

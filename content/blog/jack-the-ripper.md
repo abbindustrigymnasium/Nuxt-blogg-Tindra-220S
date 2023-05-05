@@ -2,6 +2,7 @@
 title: The terrorizer of Whitechapel district
 author: Tindra Åkerberg
 date: 2002-07-30
+number: 1
 ---
 Jack the Ripper was a serial killer who terrorized the Whitechapel district of London in 1888.
 <!--more-->

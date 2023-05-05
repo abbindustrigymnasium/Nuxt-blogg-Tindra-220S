@@ -1,11 +1,30 @@
 <template>
-    <div>
-        <img class="h-80" src="~/assets/images/Madeleine McCann1.jpg">
-    <p class="text-xl font-mono text-white">Madeleine McCann was a three-year-old British girl who disappeared on the evening of May 3, 2007, while on holiday with her family in the Portuguese resort town of Praia da Luz.
-         Her disappearance quickly became one of the most high-profile missing persons cases in modern history,
-         with extensive media coverage and international attention. Despite an extensive investigation and ongoing efforts to find her,
-         Madeleine's whereabouts remain unknown. The case has sparked numerous theories and controversies, and has had a profound impact on her family and those who have followed the case over the years.</p>
-    </div>
+    <main class="px-4 pt-16 pb-20 sm:px-6 lg:pt-24 lg:pb-28">
+        <div class="mx-auto max-w-lg lg:max-w-7xl">
+            <div class="border-b border-b-gray-200 pb-6">
+                <h2 class="text-3xl font-semibold tracking-tight text-white flex justify-center sm:text-4xl">
+                    Unsolved Crimes
+                </h2>
+            </div>
+            <div class="mt-12 grid gap-16 lg:grid cols-3 lg:gap-x-5 lg:gap-y-12 text-white">
+                <ContentList path="/blog" v-slot="{ list }">
+      <div v-for="article in list" :key="article._path" 
+      class="flex-col justify-between rounded-lg border border-grey-200 p-4">
+        <nuxt-link :href="article._path">
+      <p class="text-xl text-white">{{ article.title }}</p>
+        <p class="mt-3 text-white">{{ article.description }}</p>
+    </nuxt-link>
+      </div>
+      <div class="mt-6">
+        <!-- <p class="text-sm font-medium text-white">{{ article.author }}</p> -->
+        <!-- <div class="text-sm text-white">
+            <time datetime="2020-03-16">{{ article.date }}</time>
+        </div> -->
+      </div>
+                </ContentList>
+            </div>
+        </div>
+    </main>
 </template>
 
 <script setup>

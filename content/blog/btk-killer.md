@@ -2,6 +2,7 @@
 title: The "BTK" killer
 author: Tindra Åkerberg
 date: 2022-02-17
+number: 2
 ---
 The BTK Killer, also known as Dennis Rader, was a notorious American serial killer who operated in Kansas from the 1970s to the early 2000s. 
 <!--more-->

@@ -2,6 +2,7 @@
 title: Ted Bundy
 author: Tindra Åkerberg
 date: 2022-02-17
+number: 2
 ---
 the 1970s. Bundy was responsible for the deaths of at least 30 young women, although the actual number may be much higher.
 <!--more-->

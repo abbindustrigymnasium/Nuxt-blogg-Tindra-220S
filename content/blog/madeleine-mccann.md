@@ -1,14 +1,10 @@
 ---
-title: What happened to Madeleine MCcann?
-description: "bla bla bla bla"
-slug: what-happened-to-madeleine-mccann
-author: Tindra Åkerberg
-img: /images/Madeleine McCann1.jpg
-authorImg: /images/tindra-avatar.jpg
-createdAt: "2023-03-30"
-updatedAt: "2023-04-10"
+title: What happened to Madeleine McCann?
+author: Tindra
+date: 2023-04-15
+
 ---
 
-# hello nuxt contenc v2!
-
-this is a description.
+Madeleine McCann was a three-year-old British girl who disappeared on the evening of May 3, 2007, while on holiday with her family in the Portuguese resort town of Praia da Luz.
+ <!--more-->
+ Her disappearance quickly became one of the most high-profile missing persons cases in modern history, with extensive media coverage and international attention. Despite an extensive investigation and ongoing efforts to find her, Madeleine's whereabouts remain unknown. The case has sparked numerous theories and controversies, and has had a profound impact on her family and those who have followed the case over the years.

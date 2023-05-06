@@ -1,3 +1,8 @@
+## inpiration 
+
+Min inspiration var crime och [detta CV](https://www.behance.net/gallery/159245893/CV-Portfolio-2022?tracking_source=search_projects%7Cblog+template)
+
+
 # Nuxt 3 Minimal Starter
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.

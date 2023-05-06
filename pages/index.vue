@@ -9,7 +9,7 @@
             <div class="mt-12 grid gap-16 lg:grid cols-3 lg:gap-x-5 lg:gap-y-12 text-white">
                 <ContentList path="/blog" v-slot="{ list }">
       <div v-for="article in list" :key="article._path" 
-      class="flex-col justify-between rounded-lg border border-grey-200 p-4">
+      class="flex-col justify-between rounded-lg border border-red-600 p-4">
         <nuxt-link :href="article._path">
       <p class="text-xl text-white">{{ article.title }}</p>
         <p class="mt-3 text-white">{{ article.description }}</p>

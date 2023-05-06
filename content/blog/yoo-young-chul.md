@@ -1,5 +1,5 @@
 ---
-title: Yoo Young-chul
+title: The Raincoat Killer
 author: Tindra Åkerberg
 date: 2022-02-17
 number: 2

@@ -1,7 +1,8 @@
 <template>
     <div class="background">
         <div class="flex justify-end">
-            <div class="flex justify-around items-center bg-red-700 h-8 w-screen font-bold">
+            <div class="flex justify-around items-center bg-red-800 h-8 w-screen font-bold">
+                <p class="text-white font-bold">MURDERPEDIA</p>
             </div>
         </div>
         <slot />
